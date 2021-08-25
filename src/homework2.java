@@ -14,7 +14,7 @@ public class homework2 {
             return  "false";
         }
     }
-
+    // Задание 2
     public  static String task2 (int a){
         if (a >= 0){
             return "Положительное";
@@ -22,7 +22,7 @@ public class homework2 {
             return  "Отрицательное";
         }
     }
-
+    // Задание 3
     public  static String task3 (int a){
         if (a >= 0){
             return "true";
@@ -30,14 +30,14 @@ public class homework2 {
             return  "false";
         }
     }
-
+    // Задание 4
     public static void task4 (int a, String b){
         System.out.println("Задание 4: ");
         for (int i=0; i < a; i++){
             System.out.println(b);
         }
     }
-
+    // Задание 5
     public static String task5 (int a){
         if ((a%4 == 0 && a% 100 !=0) || a%400 == 0){
             return "true";
