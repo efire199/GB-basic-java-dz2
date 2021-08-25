@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9bb58d23-a02d-4f36-9498-cf9f3bd20f0c" name="Default Changelist" comment="" />
+    <list default="true" id="9bb58d23-a02d-4f36-9498-cf9f3bd20f0c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1xE3KA8GKUbYimY7L0r1YiUAs0Y" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -30,6 +35,20 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
+  <component name="RunManager">
+    <configuration name="homework2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework2" />
+      <module name="GB-basic-java-dz2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.homework2" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -41,21 +60,55 @@
       <option name="presentableId" value="Default" />
       <updated>1629906353867</updated>
     </task>
+    <task id="LOCAL-00001" summary="l">
+      <created>1629909058984</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1629909058984</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="l" />
+    <option name="LAST_COMMIT_MESSAGE" value="l" />
   </component>
   <component name="WindowStateProjectService">
     <state x="872" y="358" key="#Project_Structure" timestamp="1629906510381">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="872" y="358" key="#Project_Structure/2560.0.1080.1880/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1629906510381" />
+    <state x="900" y="294" key="CommitChangelistDialog2" timestamp="1629909058650">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="900" y="294" key="CommitChangelistDialog2/2560.0.1080.1880/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1629909058650" />
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1629908843784">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/2560.0.1080.1880/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1629908843784" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1629908843784">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.center/2560.0.1080.1880/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1629908843784" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1629908843784">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.left/2560.0.1080.1880/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1629908843784" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1629908843784">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.right/2560.0.1080.1880/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1629908843784" />
     <state x="961" y="385" width="998" height="716" key="SettingsEditor" timestamp="1629906724242">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="961" y="385" width="998" height="716" key="SettingsEditor/2560.0.1080.1880/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1629906724242" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1629909063025">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2/2560.0.1080.1880/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1629909063025" />
   </component>
 </project>
